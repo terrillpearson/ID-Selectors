@@ -1,0 +1,23 @@
+/* styles.css */
+
+p {
+   background-color:#ffb6c1 ; 
+   font-family:verdana, times, sans-serif;
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.altroodd {
+    font-size: 24px;
+}
+
+#moreeven {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
